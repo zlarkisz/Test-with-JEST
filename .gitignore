@@ -5,9 +5,6 @@
 # Ignore Node.js dependencies
 node_modules/
 
-# Ignore compiled JavaScript files
-*.js
-
 # Ignore log files
 *.log
 
